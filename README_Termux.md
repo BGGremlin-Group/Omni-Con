@@ -80,8 +80,8 @@ A powerful, all-in-one media conversion tool for Termux on non-rooted Android de
    mkdir ~/OMNI_CON
    cd ~/OMNI_CON
    # Download omni-con.py (e.g., via wget, curl, or manual copy)
-   wget <URL_TO_SCRIPT> -O omni-con.py
-   chmod +x omni-con.py
+   wget <[URL_TO_SCRIPT](https://github.com/BGGremlin-Group/Omni-Con.git)> -O omnicon_termux.py
+   chmod +x omnicon_termux.py
    ```
 
 3. **Run the Script**:
@@ -158,4 +158,5 @@ Select **3** to access the sub-menu:
 Got ideas? Want to add audio steganography or new presets? Submit a pull request or contact the BGGremlin Group! 🦹‍♂️
 
 ## License
-Developed by **BGGremlin Group**. Licensed under MIT. Use it, tweak it, share it—just give us a shoutout!
+Developed by **BGGremlin Group**. *Creating Unique Tools for Unique Individuals* 
+Licensed under MIT. Use it, tweak it, share it—just give us a shoutout!
